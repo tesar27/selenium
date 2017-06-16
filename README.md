@@ -1,2 +1,1 @@
-# selenium
-# the test is done using www.aliexpress.com
+#created by tesar27
